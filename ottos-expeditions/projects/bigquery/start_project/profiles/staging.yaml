@@ -1,7 +1,7 @@
 profile:
   parameters:
     gcp:
-      project_id: <your-gcp-project>
+      project_id: shifra-test-452800
     bigquery:
       dataset: OTTOS_EXPEDITIONS_STAGING
       location: US
