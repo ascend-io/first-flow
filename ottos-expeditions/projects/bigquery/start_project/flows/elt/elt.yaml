@@ -1,4 +1,0 @@
-flow:
-  version: 1.0.0
-  data_plane:
-    connection_name: bigquery_data_plane
