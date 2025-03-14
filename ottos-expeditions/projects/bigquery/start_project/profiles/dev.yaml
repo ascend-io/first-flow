@@ -1,7 +1,7 @@
 profile:
   parameters:
     gcp:
-      project_id: first-flow-453617
+      project_id: shifra-test-452800
     bigquery:
       dataset: FIRST_FLOW_DEV
       location: US
